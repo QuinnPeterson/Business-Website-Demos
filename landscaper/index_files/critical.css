@@ -183,7 +183,7 @@
 }
 @media only screen and (min-width: 100rem) {
     #hero-1618 .cs-background {
-        background: url("./fire.webp");
+        background: url("./index_files/fire.webp");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
